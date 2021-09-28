@@ -1,0 +1,14 @@
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.exe
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.deps.json
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.runtimeconfig.json
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.runtimeconfig.dev.json
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.dll
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\bin\Debug\netcoreapp3.1\Ex7Pratica.pdb
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.AssemblyInfo.cs
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.dll
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.pdb
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\Ex7Pratica\Ex7Pratica\obj\Debug\netcoreapp3.1\Ex7Pratica.genruntimeconfig.cache
